@@ -4,3 +4,5 @@ Group Members:
 - Adyan Shamin
 - Ajay Adithya S
 - Khanjan Purohit
+
+Project Definition: Lane detection by clustering tracks- pNEUMA
